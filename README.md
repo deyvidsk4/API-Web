@@ -22,14 +22,5 @@ Após o download dos programas necessários, atente para os seguintes passos par
 - Digite o comando “dotnet run” para levantar a aplicação.
 - Abra o Postman para então fazer suas requisições.
 - URL padrão https://localhost:5001/api/polls/.
-
-## Feedback do desafio:
-
-A entrega da solução contém algumas pendencias nas necessidades da função da API.
-
-- O metodo para incrementar na tabela "visualizacao" após uma requisição a Polls/id não conseguir implementar.
-
-- O atributo "option" deveria ser um atributo multivalorado para assim guardar um array contento três opções para votação.
-
-- Ao analiza a proposta do desafio a solução que estou entregando, percebo que minha solução não cumpre com alguns requisitos do mesmo...  
+ 
 
